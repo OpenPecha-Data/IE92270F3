@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN5651
   title: འབྲོང་སྟག་ཐང་།
-  volume: ''
+  volume:
+    2abf3cb90db94ad8a64ebe9928922001:
+      image_group_id: I3CN5653
+      title: Volume 1 of 'brong stag thang /
+      volume_number: 1
+      total_pages: 416
   author: ''
+ebook_metadata:
+  title: འབྲོང་སྟག་ཐང་།
+  author: ''
+  sku: P008132
+  cover: cover.jpg
+  layers:
+  - pagination
